@@ -1,0 +1,8 @@
+SSAD48
+Contributions done by each member in the project
+
+Aniket Shrimal - Backend, Webscraping, Storage, Tabulation, Documentation
+
+Lakshmi Sravya - Frontend, Building web pages, Editing features, Documentation
+
+Aamir Farhan - Parsing, Frontend, Login and SignUp, Data collection, Documentation

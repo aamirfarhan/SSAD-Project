@@ -1,0 +1,12 @@
+Date: 24th August, 2017
+
+Meeting Venue: Reading Room, Vindhya A6
+
+Meeting agenda: Familiarisation of the project
+
+Initial meeting with client.
+Verified our understanding of the project.
+Had a brief discussion on what frameworks should we use and what is roughly expected from the project.
+Our client explained to us how text extraction and data mining works and how this concept aids them in automating their existing system.
+
+Outcome- We understood how natural pharmacogenetic data is classified, and broken down based on the required parameters. Factual information is collected from the available research papers.

@@ -1,0 +1,13 @@
+Date: 19th August, 2017
+
+Meeting Venue: Unispace Business center, Kondapur
+
+Meeting agenda: Expected Outcome by R1
+
+Second meeting with client.
+Reverified our understanding of the project.
+Had a brief discussion on what frameworks should we use ( whether an alternative to NLP is ok ) and what is roughly expected from us by R1.
+Our client explained to us how text extraction is to be perfomed and on what parameters data needs to be classfiied.
+Received links to databases from which we get the data to work on.
+
+Outcome- We understood on what parameters natural pharmacogenetic data is classified, and got a brief idea on how to sart working for ou R1

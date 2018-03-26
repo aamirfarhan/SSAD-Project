@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+
+	<title>Search Results</title>
+</head>
+<body>
+<h2>Search Results</h2>
+<br/>
+<table>
+  <tr>
+    <th>NCT Number</th>
+    <th>Status</th>
+    <th>Study title</th>
+    <th>Condition</th>
+    <th>Intervention</th>
+    <th>Location</th>
+  </tr>
+  {% for student in requests %}
+                <tr>
+                	<td>{{student.NCT_number}}</button></td>
+                	<td>{{student.Status}}</td>
+                    <td>{{student.Study_title}}</td>
+                    <td>{{student.Condition}}</td>
+                    <td>{{student.Intervention}}</td>
+                    <td>{{student.Location}}</td>
+                </tr>
+   {% endfor %}
+</table>
+</body>
+</html>
